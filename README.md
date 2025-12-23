@@ -29,7 +29,11 @@ Landing page profesional para servicios de desarrollo web, UX/UI y soluciones di
 
 ## 👥 Sobre Nosotros
 
+<<<<<<< HEAD
 Soy Adrián, y un equipo de desarrollo web y diseño UX/UI con base en Argentina. Este sitio es nuestra carta de presentación digital.
+=======
+Somos Greta & Adrián, un equipo de desarrollo web y diseño UX/UI con base en Argentina. Este sitio es nuestra carta de presentación digital.
+>>>>>>> 9b87b57 (actualizacion)
 
 ---
 
@@ -65,8 +69,18 @@ Soy Adrián, y un equipo de desarrollo web y diseño UX/UI con base en Argentina
 
 ## 🙌 Créditos
 
+<<<<<<< HEAD
+=======
+- [Greta Piacentini](https://github.com/gretoide)
+>>>>>>> 9b87b57 (actualizacion)
 - [Adrián Sambido](https://github.com/AdrianASambido)
 
 ---
 
 ¡Gracias por visitar AdoGe Innovations!
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 9b87b57 (actualizacion)
