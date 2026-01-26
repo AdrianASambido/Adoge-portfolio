@@ -71,6 +71,3 @@ Somos Greta & Adrián, un equipo de desarrollo web y diseño UX/UI con base en A
 ---
 
 ¡Gracias por visitar AdoGe Innovations!
-
-
-
