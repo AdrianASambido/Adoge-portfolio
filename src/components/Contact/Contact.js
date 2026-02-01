@@ -10,11 +10,11 @@ const WHATSAPP_CONTACTS = [
     number: '542214762150',
     href: 'https://wa.me/542214762150',
   },
-  {
+/*  {
     name: 'Greta',
     number: '542213144468',
     href: 'https://wa.me/542213144468',
-  },
+  },*/
 ];
 
 const Contact = () => {
