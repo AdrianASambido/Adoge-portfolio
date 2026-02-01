@@ -30,10 +30,14 @@ Landing page profesional para servicios de desarrollo web, UX/UI y soluciones di
 ## 👥 Sobre Nosotros
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Soy Adrián, y un equipo de desarrollo web y diseño UX/UI con base en Argentina. Este sitio es nuestra carta de presentación digital.
 =======
 Somos Greta & Adrián, un equipo de desarrollo web y diseño UX/UI con base en Argentina. Este sitio es nuestra carta de presentación digital.
 >>>>>>> 9b87b57 (actualizacion)
+=======
+Soy Adrián, y un equipo de desarrollo web y diseño UX/UI con base en Argentina. Este sitio es nuestra carta de presentación digital.
+>>>>>>> 18b03e7 (actualización)
 
 ---
 
@@ -61,6 +65,7 @@ Somos Greta & Adrián, un equipo de desarrollo web y diseño UX/UI con base en A
 
 ## 🛠️ Scripts útiles
 
+- `cd adoge` — Ingresa a la carpeta adoge
 - `npm start` — Ejecuta la app en modo desarrollo
 - `npm run build` — Genera el build de producción
 - `npm test` — Ejecuta los tests
