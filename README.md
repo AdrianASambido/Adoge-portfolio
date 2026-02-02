@@ -1,7 +1,7 @@
 # AdoGe Innovations
 
 <p align="center">
-  <img src="adoge/adoge-portfolio/src/images/logo_adoge.png" alt="AdoGe Logo" width="120" />
+  <img src="src/images/logo_adoge.png" alt="AdoGe Logo" width="120" />
 </p>
 
 **Impulsamos tu presencia digital**
